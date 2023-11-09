@@ -1,3 +1,4 @@
-text = "   Some spaces around   "
-stripped_text = text.strip()
-print("Stripped text:", stripped_text)
+########strip(space seperated)
+cloudblitz="space around between double code"
+text=cloudblitz.strip() 
+print("what happen is:",text)
