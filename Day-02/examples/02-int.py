@@ -1,15 +1,16 @@
-# Integer variables
-num1 = 10
-num2 = 5
+####integers
+demo1=18
+demo2=12
 
-# Integer Division
-result1 = num1 // num2
-print("Integer Division:", result1)
+#integer for division
+vinu1=demo1/demo2
+print("value will be",vinu1)
 
-# Modulus (Remainder)
-result2 = num1 % num2
-print("Modulus (Remainder):", result2)
+####integer for modulus or remainder
+vinu2=demo1%demo2 ####this % will show you difference between demo1 and demo2
+print("value will be",vinu2)
 
-# Absolute Value
-result3 = abs(-7)
-print("Absolute Value:", result3)
+
+###if you need to give ABSOLUTE value so you will use abs
+vin3=abs(+15) 
+print("and the absoute value is",vin3)
