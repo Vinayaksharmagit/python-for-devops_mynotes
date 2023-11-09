@@ -1,9 +1,9 @@
+#######for replacing word from sentence
 import re
+mytext="cloudblitz has lots of money"
+text="lots"
+replace123="less"
+#sub is keyword
+demo=re.sub(text,replace123,mytext) ##text konsa change krna #replace123 new wala #mytext kisme edit krna
 
-text = "The quick brown fox jumps over the lazy brown dog"
-pattern = r"brown"
-
-replacement = "red"
-
-new_text = re.sub(pattern, replacement, text)
-print("Modified text:", new_text)
+print("latest changes",demo)
