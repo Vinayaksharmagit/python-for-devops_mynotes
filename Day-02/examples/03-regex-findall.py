@@ -1,10 +1,10 @@
+####regular expression
 import re
+demo ="this line will be remember for long time"
+developer="remember"
 
-text = "The quick brown fox"
-pattern = r"brown"
-
-search = re.search(pattern, text)
+search=re.search(developer,demo)
 if search:
-    print("Pattern found:", search.group())
+    print("we have find",{search.group()}) ##curly brace are optional
 else:
-    print("Pattern not found")
+    print("OOPs! not found")
