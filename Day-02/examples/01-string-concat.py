@@ -1,4 +1,10 @@
-str1 = "Hello"
-str2 = "World"
-result = str1 + " " + str2
-print(result)
+name="asim"
+name2="vishnu"
+combining=name+" "+name2
+print(combining)
+
+#or 
+
+cloudblitz=  "shubham"   " " "abhishek"
+print(cloudblitz)
+

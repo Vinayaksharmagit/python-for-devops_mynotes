@@ -1,3 +1,4 @@
-text = "Python is awesome"
-length = len(text)
-print("Length of the string:", length)
+######length
+demo="abhishek veermalla python for DevOps"
+vinu=len(demo)
+print("it will count even space between that sentence=",vinu)
