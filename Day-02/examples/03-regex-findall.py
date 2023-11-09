@@ -1,4 +1,4 @@
-####regular expression
+####regular expression for finding word for sentence
 import re
 demo ="this line will be remember for long time"
 developer="remember"
