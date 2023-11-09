@@ -1,4 +1,6 @@
-text = "Python is awesome"
-substring = "is"
-if substring in text:
-    print(substring, "found in the text")
+
+########substring(to find word from whole sentence)
+vishnu="the value in this sentence"
+cloud="value"
+if cloud in vishnu:
+    print({cloud}," word found on vishnu sentence")
